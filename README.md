@@ -1,10 +1,33 @@
-<h1 align="center">Hi , I'm Sanath Sreekumar</h1>
-<h3 align="center">MCA Student | Full Stack Developer | GIS & 3D Web Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sanath Sreekumar</h1>
+
+<h3 align="center">
+MCA Student | Full Stack Developer | GIS & 3D Web Enthusiast
+</h3>
 
 <p align="center">
 Building modern web applications with a passion for spatial computing, GIS, and interactive 3D experiences.
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sanath2003git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
 ---
 
 ## 🚀 About Me
