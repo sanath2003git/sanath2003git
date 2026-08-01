@@ -28,9 +28,24 @@ Building modern web applications with a passion for spatial computing, GIS, and 
 </p>
 
 ---
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=sanath2003git&theme=dark&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=sanath2003git&theme=dark&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanath2003git&theme=dark&hide_border=true&layout=compact" height="170"/>
+
+</p>
+
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 MCA Student
 - 💻 Full Stack Web Developer
@@ -45,8 +60,6 @@ Building modern web applications with a passion for spatial computing, GIS, and 
   - Django REST Framework
 
 ---
-
-# 💻 Tech Stack
 
 ### Languages
 
@@ -106,25 +119,7 @@ Building modern web applications with a passion for spatial computing, GIS, and 
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=sanath2003git&theme=dark&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=sanath2003git&theme=dark&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanath2003git&theme=dark&hide_border=true&layout=compact" height="170"/>
-
-</p>
-
----
-
-# 📌 Featured Projects
+#  Featured Projects
 
 ### 🚀 Smart College Navigation System
 Interactive indoor & outdoor navigation system using GIS, QGIS, Leaflet, React and Django.
@@ -134,7 +129,7 @@ Web application for managing hostel leave requests using PHP and MySQL.
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 - 🗺️ GIS & Spatial Computing
 - 🌐 Full Stack Development
