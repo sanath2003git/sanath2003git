@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanath Sreekumar</h1>
+<h1 align="center">Hi , I'm Sanath Sreekumar</h1>
 <h3 align="center">MCA Student | Full Stack Developer | GIS & 3D Web Enthusiast</h3>
 
 <p align="center">
