@@ -51,10 +51,10 @@ GIS, and interactive 3D experiences.
 
 <!-- ===================== MAIN 2x2 LAYOUT ===================== -->
 
+<!-- ===================== ABOUT ME + SKILLS ===================== -->
+
 <table>
 <tr>
-
-<!-- ===================== ABOUT ME ===================== -->
 
 <td width="50%" valign="top">
 
@@ -68,8 +68,6 @@ GIS, and interactive 3D experiences.
 - 🚀 Interested in combining *web development, spatial data and 3D visualization*
 
 </td>
-
-<!-- ===================== SKILLS ===================== -->
 
 <td width="50%" valign="top">
 
@@ -122,10 +120,14 @@ GIS, and interactive 3D experiences.
 </td>
 
 </tr>
+</table>
 
+<br>
+
+<!-- ===================== FEATURED PROJECTS + CURRENT FOCUS ===================== -->
+
+<table>
 <tr>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
 
 <td width="50%" valign="top">
 
@@ -155,8 +157,6 @@ Web application for managing hostel leave requests, approvals, and student recor
 
 </td>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-
 <td width="50%" valign="top">
 
 ## 🎯 Current Focus
@@ -169,7 +169,9 @@ Web application for managing hostel leave requests, approvals, and student recor
 - 📡 ESP32 & Web Applications
 - ☁️ Modern Web Technologies
 
+<p align="center">
 <img src="./assets/spatial-map.png" width="260"/>
+</p>
 
 </td>
 
