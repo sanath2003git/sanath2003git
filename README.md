@@ -66,7 +66,11 @@ GIS, and interactive 3D experiences.
 - 🌍 Passionate about *interactive 3D web experiences*
 - 📍 Currently building a *Smart College Navigation System*
 - 🚀 Interested in combining *web development, spatial data and 3D visualization*
-
+<br>
+<br>
+<p align="center">
+<img src="./assets/smartNav.png" width="260"/>
+</p>
 </td>
 
 <td width="50%" valign="top">
@@ -169,6 +173,8 @@ Web application for managing hostel leave requests, approvals, and student recor
 - 📡 ESP32 & Web Applications
 - ☁️ Modern Web Technologies
 
+<br>
+<br>
 <p align="center">
 <img src="./assets/spatial-map.png" width="260"/>
 </p>
