@@ -5,10 +5,12 @@ MCA Student | Full Stack Developer | GIS & 3D Web Enthusiast
 </h3>
 
 <p align="center">
-Building modern web applications with a passion for spatial computing, GIS, and interactive 3D experiences.
+Building modern web applications with a passion for spatial computing,
+GIS, and interactive 3D experiences.
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/c-s-sanath-sreekumar/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -29,6 +31,8 @@ Building modern web applications with a passion for spatial computing, GIS, and 
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+
 <p align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=sanath2003git&theme=dark&hide_border=true" height="170"/>
@@ -45,98 +49,142 @@ Building modern web applications with a passion for spatial computing, GIS, and 
 
 ---
 
-##  About Me
+<!-- ===================== MAIN 2x2 LAYOUT ===================== -->
+
+<table>
+<tr>
+
+<!-- ===================== ABOUT ME ===================== -->
+
+<td width="50%" valign="top">
+
+## 👨‍💻 About Me
 
 - 🎓 MCA Student
 - 💻 Full Stack Web Developer
-- 🗺️ Interested in GIS & Spatial Data Visualization
-- 🌍 Learning Three.js & React Three Fiber
-- 📍 Building a **Smart College Navigation System**
-- 🌱 Currently exploring:
-  - Three.js
-  - GIS
-  - QGIS
-  - React
-  - Django REST Framework
+- 🗺️ Interested in *GIS & Spatial Data Visualization*
+- 🌍 Passionate about *interactive 3D web experiences*
+- 📍 Currently building a *Smart College Navigation System*
+- 🚀 Interested in combining *web development, spatial data and 3D visualization*
+</td>
 
----
+<!-- ===================== SKILLS ===================== -->
 
-### Languages
+<td width="50%" valign="top">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Skills
 
----
+### 💻 Languages
 
-### Frontend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+### 🎨 Frontend
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
----
+### 🗄️ Database
 
-### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🔧 Tools
 
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+<td width="50%" valign="top">
+
+## 🚀 Featured Projects
+
+### 📍 Smart College Navigation System
+
+Interactive *indoor & outdoor campus navigation system* combining GIS, spatial data, maps, and modern web technologies.
+
+*Tech Stack*
+
+React Django Leaflet QGIS GeoJSON Three.js
+
+🔗 **[View Project](https://github.com/sanath2003git/smart-college-navigation)**
 
 ---
-
-### Design
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-#  Featured Projects
-
-### 🚀 Smart College Navigation System
-Interactive indoor & outdoor navigation system using GIS, QGIS, Leaflet, React and Django.
 
 ### 🏠 Hostel Leave Management System
-Web application for managing hostel leave requests using PHP and MySQL.
 
----
+Web application for managing hostel leave requests, approvals, and student records.
 
-##  Current Focus
+*Tech Stack*
+
+PHP MySQL HTML CSS
+
+🔗 **[View Project](https://github.com/sanath2003git/hostel-leave-management-system)**
+
+</td>
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<td width="50%" valign="top">
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+
+<td width="60%" valign="middle">
 
 - 🗺️ GIS & Spatial Computing
 - 🌐 Full Stack Development
 - 🎮 Three.js
 - ⚛️ React
-- 🧩 React Three Fiber
+- 📍 Spatial Web Applications
+- 📡 ESP32 & Web Applications
 - ☁️ Modern Web Technologies
+
+</td>
+
+<td width="40%" valign="middle" align="center">
+
+<img src="./assets/spatial-map.png" width="260"/>
+
+</td>
+
+</tr>
+</table>
+
+</td>
 
 ---
 
