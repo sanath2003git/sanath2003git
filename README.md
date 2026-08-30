@@ -66,6 +66,7 @@ GIS, and interactive 3D experiences.
 - 🌍 Passionate about *interactive 3D web experiences*
 - 📍 Currently building a *Smart College Navigation System*
 - 🚀 Interested in combining *web development, spatial data and 3D visualization*
+
 </td>
 
 <!-- ===================== SKILLS ===================== -->
@@ -134,9 +135,9 @@ GIS, and interactive 3D experiences.
 
 Interactive *indoor & outdoor campus navigation system* combining GIS, spatial data, maps, and modern web technologies.
 
-*Tech Stack*
+**Tech Stack**
 
-React Django Leaflet QGIS GeoJSON Three.js
+`React` `Django` `Leaflet` `QGIS` `GeoJSON`
 
 🔗 **[View Project](https://github.com/sanath2003git/smart-college-navigation)**
 
@@ -146,9 +147,9 @@ React Django Leaflet QGIS GeoJSON Three.js
 
 Web application for managing hostel leave requests, approvals, and student records.
 
-*Tech Stack*
+**Tech Stack**
 
-PHP MySQL HTML CSS
+`PHP` `MySQL` `HTML` `CSS`
 
 🔗 **[View Project](https://github.com/sanath2003git/hostel-leave-management-system)**
 
@@ -160,11 +161,6 @@ PHP MySQL HTML CSS
 
 ## 🎯 Current Focus
 
-<table>
-<tr>
-
-<td width="60%" valign="middle">
-
 - 🗺️ GIS & Spatial Computing
 - 🌐 Full Stack Development
 - 🎮 Three.js
@@ -173,10 +169,6 @@ PHP MySQL HTML CSS
 - 📡 ESP32 & Web Applications
 - ☁️ Modern Web Technologies
 
-</td>
-
-<td width="40%" valign="middle" align="center">
-
 <img src="./assets/spatial-map.png" width="260"/>
 
 </td>
@@ -184,9 +176,9 @@ PHP MySQL HTML CSS
 </tr>
 </table>
 
-</td>
-
 ---
+
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
