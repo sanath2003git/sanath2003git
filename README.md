@@ -49,85 +49,100 @@ GIS, and interactive 3D experiences.
 
 ---
 
-<!-- ===================== MAIN 2x2 LAYOUT ===================== -->
-
 <!-- ===================== ABOUT ME + SKILLS ===================== -->
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<!-- ===================== ABOUT ME ===================== -->
 
-## 👨‍💻 About Me
+<td width="35%" valign="top">
 
-- 🎓 MCA Student
-- 💻 Full Stack Web Developer
-- 🗺️ Interested in *GIS & Spatial Data Visualization*
-- 🌍 Passionate about *interactive 3D web experiences*
-- 📍 Currently building a *Smart College Navigation System*
-- 🚀 Interested in combining *web development, spatial data and 3D visualization*
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+<li>🎓 MCA Student</li>
+<li>💻 Full Stack Web Developer</li>
+<li>🗺️ Interested in <i>GIS & Spatial Data Visualization</i></li>
+<li>🌍 Passionate about <i>interactive 3D web experiences</i></li>
+<li>📍 Currently building a <i>Smart College Navigation System</i></li>
+<li>🚀 Interested in combining <i>web development, spatial data and 3D visualization</i></li>
+</ul>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- ===================== SKILLS ===================== -->
 
-## 🛠️ Skills
+<td width="65%" valign="top">
 
-### 💻 Languages
+<h2>🛠️ Skills</h2>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table width="100%">
+<tr>
 
-### 🎨 Frontend
+<!-- ===================== LEFT SIDE ===================== -->
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<td width="58%" valign="top">
 
-### ⚙️ Backend
+<h3>🧑‍💻 Languages</h3>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,php,html,css" height="45"/>
+</p>
 
-### 🗄️ Database
+<h3>⚛️ Frontend</h3>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,jquery" height="45"/>
+</p>
 
-### 🔧 Tools
+<h3>⚙️ Backend</h3>
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,flask,graphql,jwt" height="45"/>
+</p>
 
-### 🎨 Design
+</td>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+<!-- ===================== RIGHT SIDE ===================== -->
+
+<td width="42%" valign="top">
+
+<h3>🗄️ Database</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" height="45"/>
+</p>
+
+<h3>🔧 Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,selenium" height="45"/>
+</p>
+
+<h3>🎨 Design</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="45"/>
+</p>
 
 </td>
 
 </tr>
 </table>
+</td>
 
+</tr>
+</table>
 <br>
 
 <!-- ===================== FEATURED PROJECTS + CURRENT FOCUS ===================== -->
 
-<table>
+<table width="100%">
 <tr>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 <td width="50%" valign="top">
 
@@ -157,6 +172,8 @@ Web application for managing hostel leave requests, approvals, and student recor
 
 </td>
 
+<!-- ===================== CURRENT FOCUS ===================== -->
+
 <td width="50%" valign="top">
 
 ## 🎯 Current Focus
@@ -170,15 +187,18 @@ Web application for managing hostel leave requests, approvals, and student recor
 - ☁️ Modern Web Technologies
 
 <br>
-<br>
+
 <p align="center">
 <img src="./assets/spatial-map.png" width="260"/>
 </p>
 
 </td>
 
+
 </tr>
+
 </table>
+
 
 ---
 
